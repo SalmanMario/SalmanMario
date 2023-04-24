@@ -1,5 +1,3 @@
-![test](https://user-images.githubusercontent.com/121935365/233974666-3d5c7588-89c3-431a-81c1-4cadc043c1df.gif)
-
 # Hi 👋 I'm Mario
 
 **`Junior Front-End Web Developer`**
