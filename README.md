@@ -1,6 +1,6 @@
-# Hi 👋 I'm Mario
+# <h1 align="center"> Hi 👋 I'm Mario </h1>
 
-**`Junior Front-End Web Developer`**
+<h2 align="center"> `Junior Front-End Web Developer`</h2>
 
 🐻 As a junior front-end developer, I am driven by
 a deep-seated curiosity to explore the latest
