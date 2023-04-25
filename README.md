@@ -33,4 +33,4 @@ Connect with me:
 
 ### 📊 Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmario&theme=tokyonight&show_icons=true)
+![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmario&show_icons=true&theme=tokyonight)
