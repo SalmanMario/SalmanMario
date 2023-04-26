@@ -31,6 +31,12 @@ Connect with me:
 <img align="left" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+### ✅ What I'm focusing right now
+
+<img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+
+
 ### 📊 Stats
 
 ![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=salmanmario&show_icons=true&theme=tokyonight)
