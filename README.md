@@ -2,7 +2,7 @@
 
 **`Full-stack Web Developer`**
 
-🐻 As a junior full-stack developer, I am driven by
+As a full-stack developer, I am driven by
 a deep-seated curiosity to explore the latest
 programming concepts and emerging
 technology trends. React and Laravel have been a particular
